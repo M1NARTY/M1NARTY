@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Nyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=M1NARTY)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **M1NARTY/M1NARTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
